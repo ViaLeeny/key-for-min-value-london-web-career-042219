@@ -10,5 +10,4 @@ lowest_key = nil
       lowest_key = key
     end 
   end 
-  lowest_key
 end
